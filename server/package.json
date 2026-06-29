@@ -7,7 +7,7 @@
     "server": "nodemon server.js",
     "start": "node server.js"
   },
-  "types": "module",
+  "type": "module",
   "keywords": [],
   "author": "",
   "license": "ISC",
